@@ -24,7 +24,7 @@ public class Data {
 
         TEMPERATURE,
         VOLTAGE,
-        POWER;
+        POWER
 
     }
 
